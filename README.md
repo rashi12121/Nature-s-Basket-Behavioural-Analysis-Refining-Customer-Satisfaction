@@ -1,0 +1,2 @@
+# Nature-s-Basket-Behavioural-Analysis-Refining-Customer-Satisfaction
+This project presents a data-driven analysis for Nature's Basket, a modern grocery delivery service operating in Mumbai, offering fresh fruits, vegetables, snacks, and beverages. The company aims to enhance customer satisfaction by addressing challenges related to order cancellations and by better understanding customer behavior.
